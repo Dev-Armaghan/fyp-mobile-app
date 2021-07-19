@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666976985044",
+    "firebase_url": "https://medicine-rider-default-rtdb.firebaseio.com",
+    "project_id": "medicine-rider",
+    "storage_bucket": "medicine-rider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666976985044:android:c1748a766c2cd736190041",
+        "android_client_info": {
+          "package_name": "com.example.medicine_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666976985044-2aok20uv2sqcrmcdm9avokscsc8tm3s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZXuptOgEPGxuJQANx6ZdjRLLe5p8h9Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666976985044-2aok20uv2sqcrmcdm9avokscsc8tm3s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
